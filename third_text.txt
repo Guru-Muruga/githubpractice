@@ -1,2 +1,0 @@
-New third_text.txt file has been created from git hub
-
