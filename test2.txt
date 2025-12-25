@@ -1,1 +1,0 @@
-git checkout origin/main -- https://github.com/Guru-Muruga/githubpractice/test2.txt
